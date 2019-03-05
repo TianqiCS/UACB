@@ -9,3 +9,5 @@ Modules: requests, beautifulsoup4 (scrapper)
 The software aims to provide a convenient approach to find course informations.
 
 The database is using sqlite3. 
+
+## Study usage only! You should be responsible for what you do.

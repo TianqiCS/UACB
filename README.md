@@ -1,5 +1,5 @@
 # UACB
-University of Alberta Course Browser (2018-2019)
+University of Alberta Course Browser (2018-2019) outdated!
 
 This project include two parts: scripts to download the data from university calendar,  
                                 scripts to load the database and provide a user interface.
